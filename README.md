@@ -1,8 +1,8 @@
 # 0x1D C - Binary trees :pencil2:
 
-> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer in many other SWE projects  [Jorge Zafra](https://github.com/jorgezafra94/) Kudos!
+> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my humble self  [Faith Ujunwa ](https://github.com/FaithOzoanieke/) Kudos to me!
 
-At the end of this project, We were able to undesrtand these questions:
+At the end of this project, I was able to understand these questions:
   
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
@@ -102,7 +102,6 @@ At the end of this project, We were able to undesrtand these questions:
 | 132-array_to_heap.c - Task pending|
 | 133-heap_extract.c - Task pending|
 | 134-heap_to_sorted_array.c - Task pending|
-| [135-O](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/135-O)|
 
 
 ## Additional info :construction:
@@ -116,6 +115,5 @@ At the end of this project, We were able to undesrtand these questions:
 
 ### Try It On Your Machine :computer:	
 
-SORRY, DESPITE THE PROJECT IS FUNCTIONAL FOR EDUCATIONAL PURPOSES FOR YOU TO LEARN I AM NOT LEAVING IT AVAILABLE FOR TEST
 
 
