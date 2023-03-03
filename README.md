@@ -1,6 +1,6 @@
-# 0x1D C - Binary trees :pencil2:
+# 0x1D C - Binary trees
 
-> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my humble self  [Faith Ujunwa ](https://github.com/FaithOzoanieke/) Kudos to me!
+> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my humble self  [Faith Ujunwa ](https://github.com/FaithOzoanieke/) Kudos to me [faith]!
 
 At the end of this project, I was able to understand these questions:
   
